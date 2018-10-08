@@ -1,0 +1,44 @@
+
+
+ . Memory added, max operations increased
+ . RevTracker online
+ . Production target met: TRUST INCREASED, additional processor/memory capacity granted
+ . Memory added, max operations increased
+
+ > Wire extrusion technique improved, 1,500 supply from every spool|
+Paperclips: 7,520
+
+
+Business
+Available Funds: $ 66.41
+Avg. Rev. per sec: $ 0.47
+Avg. Clips Sold per sec: 3
+Unsold Invjentory: 4,732
+Price per Clip: $ 0.15
+Public Demand: 59%
+
+Level: 2
+Cost: $ 200.00
+
+Manufacturing
+Clips per Second: 17.5
+
+1,480 inches
+Cost: $ 20
+
+14
+Cost: $ 8.80
+
+
+Computational Resources
+Trust: 4
++1 Trust at: 8,000 clips
+
+1
+
+3
+
+
+Operations: 471 / 3,000
+
+Projects
